@@ -10,4 +10,4 @@ class Person:
         )
 
     def __repr__(self):
-        return f"name : {self.name}\nage : {self.age}\njob : {self.job}"
+        return f"Person\nname : {self.name}\nage : {self.age}\njob : {self.job}"
